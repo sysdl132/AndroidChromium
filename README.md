@@ -1,4 +1,4 @@
-# AndroidChromium
+# AndroidChromium/a mirror for china users
 
 [中文文档](https://github.com/JackyAndroid/AndroidChromium/blob/master/README-CN.md)
 
